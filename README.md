@@ -1,0 +1,1 @@
+This repository contains a collection of machine learning projects focused on predictive modeling across various domains. Each project applies data preprocessing, exploratory data analysis, and supervised learning techniques to solve real-world problems
